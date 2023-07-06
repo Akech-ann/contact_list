@@ -24,6 +24,8 @@ class MainActivity : AppCompatActivity() {
         displayContacts()
 
 
+
+
 //        val button= findViewById<FloatingActionButton>(R.id.floatingActionButton)
 //        button.setOnClickListener {
 //
